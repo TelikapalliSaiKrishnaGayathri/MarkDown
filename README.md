@@ -77,3 +77,37 @@ Example:
 # How to access links
 
 This is [Pace website](https://pace.ac.in)
+
+## Order lists in markdown
+
+1. Django Framework
+2. Flask Framework
+10. Cheerypy
+5. Jupyter notebook
+
+## BackTick Symbol
+
+for watermarking text
+
+`GitHub`
+
+## Block quotes
+
+> Welcome
+ 
+> How are you?
+ 
+> I'm fine
+
+Another way for Highlighting a String is:
+
+\*Git and GitHub\*
+
+## Table Representation
+| S.no | Languages | Inventors |
+| ---- | --------- | --------- |
+|1     | Python    | Guido Van |
+|2     | Java      | James     |
+|3     | C         | Dennis Ritchie|
+
+😒
