@@ -76,4 +76,4 @@ Example:
 
 # How to access links
 
-This is my [gmail](gmail.com)
+This is [Pace website](https://pace.ac.in)
